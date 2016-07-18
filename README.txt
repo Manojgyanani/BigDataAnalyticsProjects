@@ -1,0 +1,1 @@
+It contains big data analytics projects that I have worked on using Hadoop, Hive, Splunk, Tableau, Sap Lumira, MS Excel.
